@@ -11,7 +11,7 @@ with lots of enemies.
 Every time you save the princess you win a heart and if the enemies catch you, you will
 lose all the hearts.
 
-### How start the game
+### How to start the game
 Just execute the file index.html and start to play.
 
 ### How to play
