@@ -1,6 +1,6 @@
 # Arcade Classic Game - Frogger Style
 
-Link: https://las82.github.io/FEND-Classic-Arcade-Game/
+Link: https://lealsdev.github.io/FEND-Classic-Arcade-Game/
 
 ###### This game is part of the Udacity's Front End Nanodegree 
 ---
